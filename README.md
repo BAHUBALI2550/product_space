@@ -75,6 +75,7 @@ Clear and reassuring messaging reduces self-doubt and encourages users to contin
 ### Key Competitor Types
 
 1. Large Upskilling Platforms
+- However this field is i feel enough for the time being on the site
 - Strong brand trust and recognition
 - Users perceive them as safer choices
 
@@ -140,7 +141,6 @@ Lack of trust leads to quick exits.
 
 **Impact:**  
 Builds confidence and reduces decision friction.
-
 ---
 
 ## 4. UX & Product Principles Applied
